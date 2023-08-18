@@ -1,3 +1,3 @@
-#Divjot Singh GrowMeOrganic Assignment React-Vite
+Ved Urmaliya GrowMeOrganic Assignment React-Vite
 
-Deployed Link: https://growmeorganicassignmentdivjotsingh.netlify.app/
+Deployed Link: https://clever-marshmallow-44ff52.netlify.app/
